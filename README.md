@@ -45,7 +45,6 @@ My goal is to begin my career in an IT Support or Service Desk role where I can 
 
 ### 🖥️ Active Directory Home Lab
 
-**Overview:**  
 Built a Windows Server Active Directory environment to practise common IT support and system administration tasks.
 
 **Skills Demonstrated:**
@@ -58,14 +57,13 @@ Built a Windows Server Active Directory environment to practise common IT suppor
 - NTFS permissions
 - Password reset and account unlock
 
-**Project Link:**  
+**Repository:**  
 [View Active Directory Home Lab](https://github.com/HenryLe02/Active-Directory-Home-Lab)
 
 ---
 
 ### 📱 Microsoft Intune / Endpoint Management Lab
 
-**Overview:**  
 Created a Microsoft Intune lab based on MD-102 concepts, focusing on endpoint management, device compliance, configuration profiles, app deployment, and remote actions.
 
 **Skills Demonstrated:**
@@ -79,14 +77,13 @@ Created a Microsoft Intune lab based on MD-102 concepts, focusing on endpoint ma
 - Endpoint security
 - Remote device management
 
-**Project Link:**  
+**Repository:**  
 [View Microsoft Intune Lab](https://github.com/HenryLe02/Microsoft-Intune-Endpoint-Management-Lab)
 
 ---
 
 ### 🎫 Jira Service Management ITIL Lab
 
-**Overview:**  
 Built a ticketing system project using Jira Service Management to simulate IT support workflows aligned with ITIL practices.
 
 **Skills Demonstrated:**
@@ -99,14 +96,13 @@ Built a ticketing system project using Jira Service Management to simulate IT su
 - Documentation
 - ITIL service management
 
-**Project Link:**  
+**Repository:**  
 [View Jira Service Management Lab](https://github.com/HenryLe02/Jira-Service-Management-ITIL-Lab)
 
 ---
 
 ### 🌐 Networking Fundamentals Home Lab
-
-**Overview:**  
+ 
 Designed and configured a basic networking lab using Cisco Packet Tracer to practise IP addressing, DHCP, DNS, routing, and connectivity troubleshooting.
 
 **Skills Demonstrated:**
@@ -119,14 +115,13 @@ Designed and configured a basic networking lab using Cisco Packet Tracer to prac
 - Connectivity testing
 - Network troubleshooting
 
-**Project Link:**  
+**Repository:**  
 [View Networking Fundamentals Home Lab](https://github.com/HenryLe02/Networking-Fundamentals-Home-Lab)
 
 ---
 
 ### ⚡ PowerShell IT Support Toolkit
 
-**Overview:**  
 Created a PowerShell project to practise basic scripting and automation tasks used in IT support environments.
 
 **Skills Demonstrated:**
@@ -140,40 +135,25 @@ Created a PowerShell project to practise basic scripting and automation tasks us
 - Basic automation
 - Documentation
 
-**Project Link:**  
+**Repository:**  
 [View PowerShell IT Support Toolkit](https://github.com/HenryLe02/PowerShell-IT-Support-Toolkit)
 
 ---
 
 ## 🛠 Technical Skills
 
-### Microsoft Technologies
-Microsoft 365 • Microsoft Intune • Microsoft Entra ID • Active Directory
+Microsoft 365 | Intune | Active Directory | Windows Server
 
-### Operating Systems
-Windows 10 • Windows 11 • Windows Server 2022
+TCP/IP | DNS | DHCP | Cisco
 
-### Networking
-TCP/IP • DNS • DHCP • Cisco Packet Tracer
+PowerShell | GitHub | Oracle VirtualBox
 
-### IT Service Management
-ITIL 4 • Incident Management • Problem Management • Service Request Management • Jira Service Management
-
-### Virtualization
-Oracle VirtualBox
-
-### Scripting
-PowerShell
-
-### Version Control
-GitHub
+ITIL 4 | Jira
 
 ---
 
 
 ## 🎯 Career Goal
-
-🎯 Career Objective
 
 Seeking an entry-level IT Support or Service Desk role where I can apply my technical skills, continue learning, and contribute to delivering reliable IT services.
 
@@ -190,7 +170,7 @@ Seeking an entry-level IT Support or Service Desk role where I can apply my tech
 
 <div align="center">
 
-### Thanks for visiting my IT Support Portfolio.
+### Thanks for visiting.
 
 </div>
 
